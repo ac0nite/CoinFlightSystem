@@ -1,0 +1,24 @@
+{
+  "name": "com.ac0nite.coinflight",
+  "version": "0.1.0",
+  "displayName": "Coin Flight System",
+  "description": "Coin Fight System",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.mathematics": "1.3.2",
+    "com.unity.ugui": "2.0.0",
+    "com.kyrylokuzyk.primetween": "1.4.0"
+  },
+  "samples": [
+    {
+      "displayName": "Coin Flight Demo",
+      "description": "UI-UI and World-UI demo scene with HUD and pattern switcher.",
+      "path": "Samples~/CoinFlightDemo"
+    }
+  ],
+  "author": {
+    "name": "Andrei Sachuk",
+    "email": "a.sachuk@gmail.com",
+    "url": "https://github.com/ac0nite/CoinFlightSystem"
+  }
+}

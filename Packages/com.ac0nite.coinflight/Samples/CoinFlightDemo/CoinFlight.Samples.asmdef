@@ -1,0 +1,20 @@
+{
+    "name": "CoinFlight.Samples",
+    "rootNamespace": "CoinFlight.Samples",
+    "references": [
+        "CoinFlight.Runtime",
+        "Unity.Mathematics",
+        "UnityEngine.UI",
+        "Unity.TextMeshPro",
+        "PrimeTween.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
